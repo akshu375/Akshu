@@ -1,2 +1,2 @@
 # Akshu
-My first deploy in pending
+My first deploy in pendin
